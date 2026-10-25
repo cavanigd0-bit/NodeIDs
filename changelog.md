@@ -1,6 +1,6 @@
 # Node IDs Changelog
 ## v1.23.4
-*Fix 2.2091 compatibility
+* Fix 2.2091 compatibility
 
 ## v1.23.3
 * Fix link controls positioning on mobile
